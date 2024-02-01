@@ -1,0 +1,10 @@
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\2_9_KasimArasiCalismalar\SaatDakikaSaniyeCalisma\GirilenKelimeKaçHarfli\AnketUygulamasi\bin\Debug\AnketUygulamasi.exe.config
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\2_9_KasimArasiCalismalar\SaatDakikaSaniyeCalisma\GirilenKelimeKaçHarfli\AnketUygulamasi\bin\Debug\AnketUygulamasi.exe
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\2_9_KasimArasiCalismalar\SaatDakikaSaniyeCalisma\GirilenKelimeKaçHarfli\AnketUygulamasi\bin\Debug\AnketUygulamasi.pdb
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\2_9_KasimArasiCalismalar\SaatDakikaSaniyeCalisma\GirilenKelimeKaçHarfli\AnketUygulamasi\obj\Debug\AnketUygulamasi.csproj.AssemblyReference.cache
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\2_9_KasimArasiCalismalar\SaatDakikaSaniyeCalisma\GirilenKelimeKaçHarfli\AnketUygulamasi\obj\Debug\AnketUygulamasi.Form1.resources
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\2_9_KasimArasiCalismalar\SaatDakikaSaniyeCalisma\GirilenKelimeKaçHarfli\AnketUygulamasi\obj\Debug\AnketUygulamasi.Properties.Resources.resources
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\2_9_KasimArasiCalismalar\SaatDakikaSaniyeCalisma\GirilenKelimeKaçHarfli\AnketUygulamasi\obj\Debug\AnketUygulamasi.csproj.GenerateResource.cache
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\2_9_KasimArasiCalismalar\SaatDakikaSaniyeCalisma\GirilenKelimeKaçHarfli\AnketUygulamasi\obj\Debug\AnketUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\2_9_KasimArasiCalismalar\SaatDakikaSaniyeCalisma\GirilenKelimeKaçHarfli\AnketUygulamasi\obj\Debug\AnketUygulamasi.exe
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\2_9_KasimArasiCalismalar\SaatDakikaSaniyeCalisma\GirilenKelimeKaçHarfli\AnketUygulamasi\obj\Debug\AnketUygulamasi.pdb
