@@ -1,0 +1,10 @@
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma6\Calisma6\bin\Debug\Calisma6.exe.config
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma6\Calisma6\bin\Debug\Calisma6.exe
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma6\Calisma6\bin\Debug\Calisma6.pdb
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma6\Calisma6\obj\Debug\Calisma6.Properties.Resources.resources
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma6\Calisma6\obj\Debug\Calisma6.csproj.GenerateResource.cache
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma6\Calisma6\obj\Debug\Calisma6.csproj.CoreCompileInputs.cache
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma6\Calisma6\obj\Debug\Calisma6.exe
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma6\Calisma6\obj\Debug\Calisma6.pdb
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma6\Calisma6\obj\Debug\Calisma6.frmHeader.resources
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma6\Calisma6\obj\Debug\Calisma6.csproj.AssemblyReference.cache

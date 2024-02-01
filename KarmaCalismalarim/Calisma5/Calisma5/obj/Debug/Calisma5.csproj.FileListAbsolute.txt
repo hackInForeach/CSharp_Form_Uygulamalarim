@@ -1,0 +1,10 @@
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma5\Calisma5\bin\Debug\Calisma5.exe.config
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma5\Calisma5\bin\Debug\Calisma5.exe
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma5\Calisma5\bin\Debug\Calisma5.pdb
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma5\Calisma5\obj\Debug\Calisma5.csproj.AssemblyReference.cache
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma5\Calisma5\obj\Debug\Calisma5.frmHeader.resources
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma5\Calisma5\obj\Debug\Calisma5.Properties.Resources.resources
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma5\Calisma5\obj\Debug\Calisma5.csproj.GenerateResource.cache
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma5\Calisma5\obj\Debug\Calisma5.csproj.CoreCompileInputs.cache
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma5\Calisma5\obj\Debug\Calisma5.exe
+C:\Users\dogus\OneDrive\Masaüstü\C#CalismaVeDersNotlari\NewCalisma\Calisma5\Calisma5\obj\Debug\Calisma5.pdb
